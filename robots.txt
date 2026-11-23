@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hobartkitchenrenovations.com.au/sitemap.xml
